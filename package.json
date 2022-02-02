@@ -1,0 +1,22 @@
+{
+  "name": "rollup-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laserapple/rollup-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laserapple/rollup-template/issues"
+  },
+  "homepage": "https://github.com/laserapple/rollup-template#readme",
+  "dependencies": {
+    "rollup": "^2.66.1"
+  }
+}
